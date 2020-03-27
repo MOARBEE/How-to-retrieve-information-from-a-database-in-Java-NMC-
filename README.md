@@ -1,0 +1,2 @@
+# How-to-retrieve-information-from-a-database-in-Java-NMC-
+Continuing from prev example, here we are retrieving what we stored (in the prev code). Here we just print out what is in the database, but you can retrieve info and compare it to user inputs and stuff as well. This is just the common code on how to retrieve info from the database. Keep in mind, you need to follow the sequence that the columns were typed in the database, so in the database fname comes first then sname etc. In the code (when inserting and retrieving) you should follow that sequence.
